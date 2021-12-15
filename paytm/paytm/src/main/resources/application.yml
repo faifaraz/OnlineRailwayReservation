@@ -1,0 +1,5 @@
+server:
+  port: 9069
+spring:
+  application:
+    name: PAYTMPAYMENT
